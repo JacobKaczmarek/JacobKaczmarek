@@ -2,17 +2,13 @@
 
 🎓 Master of Science in Information Technology with a Specialization in Machine Learning
 
-💻 Former frontend developer, now navigating the world of machine learning
+💻 Frontend developer interested in the world of machine learning
 
 🤖 Passionate about the convergence of data and code to unlock new possibilities
 
 🌐 Exploring the practical applications of AI in the digital realm
 
-📊 Transitioning from crafting user interfaces to building intelligent models
-
 🔍 Seeking elegant solutions to real-world challenges, whether through design or algorithms
-
-📚 A perpetual student, bridging the gap between web development and AI
 
 🌟 Committed to enhancing efficiency and understanding through technology
 
